@@ -24,5 +24,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Let's connect! Send me an invitation on:
 
 Linkedin - https://www.linkedin.com/in/victor-jacon-7444b819a/
+
 Github - https://github.com/Victor-Jacon
+
 Frontend Mentor - https://www.frontendmentor.io/profile/Victor-Jacon/
