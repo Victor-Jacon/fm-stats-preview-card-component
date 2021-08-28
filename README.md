@@ -2,13 +2,14 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62).
 
-### Screenshot
+### Screenshots
 
 ![](/screenshot.png)
+![](/screenshotmobile.png)
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://fm-stats-preview-card-component-woad.vercel.app/
 
 ### Built with
 
